@@ -1,0 +1,120 @@
+﻿=== Test Case #0 ===
+Start: A125, End: A125
+Distance: 0
+Path: A125 
+鉁?Path is valid.
+
+=== Test Case #1 ===
+Start: B211, End: B211
+Distance: 0
+Path: B211 
+鉁?Path is valid.
+
+=== Test Case #2 ===
+Start: B2314, End: B2314
+Distance: 0
+Path: B2314 
+鉁?Path is valid.
+
+=== Test Case #3 ===
+Start: A76812, End: A76812
+Distance: 0
+Path: A76812 
+鉁?Path is valid.
+
+=== Test Case #4 ===
+Start: B100015, End: B100015
+Distance: 0
+Path: B100015 
+鉁?Path is valid.
+
+=== Test Case #5 ===
+Start: A128, End: A103
+Distance: 65
+Path: A128 AC114 AC113 AC112 AC111 AC110 AC109 AC108 AC107 AC106 AC105 AC104 AC103 A103 
+鉁?Path is valid.
+
+=== Test Case #6 ===
+Start: B323, End: A305
+Distance: 226
+Path: B323 BC309 BC308 BC307 BC306 BC305 BC304 BC303 BC302 BC301 BE301 BE201 BE101 AE101 AE201 AE301 AC301 AC302 AC303 AC304 AC305 A305 
+鉁?Path is valid.
+
+=== Test Case #7 ===
+Start: B5304, End: A5312
+Distance: 202
+Path: B5304 BC5304 BC5303 BC5302 BC5301 BE5301 BE5201 BE5101 BC5101 BC5102 BC5103 BC5104 BC5105 BC5106 BC5107 BC5108 BC5109 B5109 A5023 AC5009 AC5010 AC5011 AC5012 AC5013 AC5014 AE5002 AE5102 AE5202 AE5302 AC5314 AC5313 AC5312 A5312 
+鉁?Path is valid.
+
+=== Test Case #8 ===
+Start: A54425, End: B54417
+Distance: 222
+Path: A54425 AC54411 AC54412 AC54413 AC54414 AE54402 AE54302 AE54202 AE54102 AE54002 AC54014 AC54013 AC54012 AC54011 AC54010 AC54009 A54023 B54109 BC54109 BC54108 BC54107 BC54106 BC54105 BC54104 BC54103 BC54102 BC54101 BE54101 BE54201 BE54301 BE54401 BC54401 BC54402 BC54403 B54417 
+鉁?Path is valid.
+
+=== Test Case #9 ===
+Start: A100021, End: A100008
+Distance: 15
+Path: A100021 AC100007 AC100008 A100008 
+鉁?Path is valid.
+
+=== Test Case #10 ===
+Start: A124, End: A105
+Distance: 35
+Path: A124 AC110 AC109 AC108 AC107 AC106 AC105 A105 
+鉁?Path is valid.
+
+=== Test Case #11 ===
+Start: B127, End: B127
+Distance: 0
+Path: B127 
+鉁?Path is valid.
+
+=== Test Case #12 ===
+Start: A128, End: A106
+Distance: 50
+Path: A128 AC114 AC113 AC112 AC111 AC110 AC109 AC108 AC107 AC106 A106 
+鉁?Path is valid.
+
+=== Test Case #13 ===
+Start: B124, End: B101
+Distance: 55
+Path: B124 AC110 AC109 AC108 AC107 AC106 AC105 AC104 AC103 AC102 AC101 B101 
+鉂?Invalid path: B124 to AC110 illegal step.
+
+=== Test Case #14 ===
+Start: B111, End: A115
+Distance: 176
+Path: B111 BC111 BC110 BC109 BC108 BC107 BC106 BC105 BC104 BC103 BC102 BC101 BE101 AE101 AC101 A115 
+鉁?Path is valid.
+
+=== Test Case #15 ===
+Start: B126, End: B108
+Distance: 30
+Path: B126 AC112 AC111 AC110 AC109 AC108 B108 
+鉂?Invalid path: B126 to AC112 illegal step.
+
+=== Test Case #16 ===
+Start: B119, End: B126
+Distance: 45
+Path: B119 AC105 AC106 AC107 AC108 AC109 AC110 AC111 AC112 B126 
+鉂?Invalid path: B119 to AC105 illegal step.
+
+=== Test Case #17 ===
+Start: B117, End: A128
+Distance: 181
+Path: B117 BC103 BC104 BC105 BC106 BC107 BC108 BC109 BC110 BC111 BC112 BC113 BC114 BE102 AE102 AC114 A128 
+鉁?Path is valid.
+
+=== Test Case #18 ===
+Start: A405, End: B416
+Distance: 211
+Path: A405 AC405 AC404 AC403 AC402 AC401 AE401 AE301 AE201 AE101 BE101 BE201 BE301 BE401 BC401 BC402 B416 
+鉁?Path is valid.
+
+=== Test Case #19 ===
+Start: B706, End: A201
+Distance: 221
+Path: B706 BC706 BC705 BC704 BC703 BC702 BC701 BE701 BE601 BE501 BE401 BE301 BE201 BE101 AE101 AE201 AC201 A201 
+鉁?Path is valid.
+
